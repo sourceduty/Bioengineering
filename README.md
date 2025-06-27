@@ -6,7 +6,7 @@ Bioengineering in 4D takes this concept a step further by integrating the dimens
 
 #
 
-![Bioengineer Build](https://github.com/user-attachments/assets/e4f90dd0-1c32-47ba-ba25-4e041466d147)
+![Bioengineer Build](https://github.com/user-attachments/assets/ffe9e2cc-072d-4dce-8dad-1fda9d39da48)
 
 [Bioengineer 4D](https://chatgpt.com/g/g-685f2499a5d88191a0a5e3a4a56dab6d-bioengineer-4d) is a custom GPT thtat specializes in exploring and explaining the concept of bioengineered 4D buildings—innovative structures that merge biology, engineering, and nanotechnology. These buildings use living organisms like genetically modified fungi or bacteria to grow and self-assemble into complex forms, and they possess the unique ability to change shape over time in response to environmental stimuli such as temperature, light, or humidity. Designed for adaptability and sustainability, they incorporate self-healing materials and responsive features, offering eco-friendly solutions with striking organic aesthetics. Bioengineer 4D guides users through these futuristic ideas using a structured, step-by-step approach to foster a clear and engaging understanding of this emerging field.
 
